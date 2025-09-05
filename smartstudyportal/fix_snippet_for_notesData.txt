@@ -1,0 +1,12 @@
+Please update the entry for the note with id "math-2" in src/data/notesData.ts as follows:
+
+{
+  id: "math-2",
+  title: "Integration Techniques",
+  description: "Various integration methods with solved examples",
+  url: "/pdfs/m2.pdf",
+  uploadDate: "2024-01-20",
+  type: "pdf"
+}
+
+Make sure the url value is enclosed in double quotes to avoid syntax errors.
